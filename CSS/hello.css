@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.paper {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+
+.hello {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    max-width: 550px;
+}
+
+.svg {
+    fill: none;
+    stroke: #fff;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+    stroke-width: 48px;
+    stroke-dasharray: 5800px;
+    stroke-dashoffset: 5800px;
+    animation: svg linear 5s forwards;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+}
+
+@keyframes svg {
+    0% {
+        stroke-dashoffset: 5800;
+    }
+
+    25% {
+        stroke-dashoffset: 5800;
+    }
+
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
