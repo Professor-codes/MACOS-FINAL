@@ -19,3 +19,10 @@
 
 # Project preview
 
+### hello screen
+
+### + 
+
+![macos-first](https://github.com/Professor-codes/MACOS-FINAL/assets/126326997/9d98ac5c-1675-43ca-bf74-f758342829a9)
+![macos-second](https://github.com/Professor-codes/MACOS-FINAL/assets/126326997/1bd17be1-d7f3-4f2b-b7f8-641e2ea8b41e)
+
